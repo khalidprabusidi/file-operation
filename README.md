@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Log Analytics CLI
 
 ## Instructions

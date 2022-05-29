@@ -9,7 +9,7 @@
   <version>1.0-SNAPSHOT</version>
 
   <name>log-analytic</name>
-  <!-- FIXME change it to the project's website -->
+  <!-- FIXME change it to the project's website url -->
   <url>http://www.example.com</url>
 
   <properties>
